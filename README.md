@@ -18,7 +18,7 @@ Account: huynhbaotrung@gmail.com, pass: Trung12345! `-----> use it to log in. In
 
 **99% self-written, not copied.**
 
-![Facebook-clone](https://media.giphy.com/media/8ABYLgbCIlkynzVaGU/giphy.gif)
+![Facebook-clone-gif](https://media.giphy.com/media/8ABYLgbCIlkynzVaGU/giphy.gif)
 
 ## Authentication
 
